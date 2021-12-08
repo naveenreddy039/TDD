@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.exe
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.deps.json
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\hp\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.genruntimeconfig.cache
